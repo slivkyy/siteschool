@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,300&display=swap');
+
+body {
+  background: #b2b7bf;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#about {
+  text-align: center;
+}
+
+#about2 {
+  text-align: center;
+  margin-top: 750px;
+}
+
+#help-h1 {
+  margin-top: 45px;
+  float: left;
+  width: 18%;
+  margin-left: 35px;
+}
+
+#text-h1 {
+  margin-right: 384px;
+  float: right;
+  width: 31%;
+  margin-top: 30px;
+}
+
+#help-h2 {
+  margin-top: 90px;
+  float: left;
+  width: 18%;
+  margin-left: 35px;
+}
+
+#text-h2 {
+  margin-right: 384px;
+  float: right;
+  width: 31%;
+  margin-top: 39px;
+}
+
+#help-h3 {
+  margin-top: 50px;
+  float: left;
+  width: 18%;
+  margin-left: 35px;
+}
+
+#text-h3 {
+  margin-right: 384px;
+  float: right;
+  width: 31%;
+  margin-top: 45px;
+}
+
+#help-h4 {
+  margin-top: 150px;
+  float: left;
+  width: 18%;
+  margin-left: -147px;
+}
+
+#text-h4 {
+  margin-right: 384px;
+  float: right;
+  width: 31%;
+  margin-top: 45px;
+}
+
+#help-h5 {
+  margin-top: 50px;
+  float: left;
+  width: 18%;
+  margin-left: 40px;
+}
+
+#text-h5 {
+  margin-right: 384px;
+  float: right;
+  width: 31%;
+  margin-top: 49px;
+}
+
+#help-h6 {
+  margin-top: 50px;
+  float: left;
+  width: 18%;
+  margin-left: 40px;
+}
+
+#text-h6 {
+  margin-right: 384px;
+  float: right;
+  width: 31%;
+  margin-top: 49px;
+}
+
+#p {
+  margin-top: 35px;
+  text-align: center;
+}
